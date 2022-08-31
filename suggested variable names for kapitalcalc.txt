@@ -1,0 +1,12 @@
+employees = 3
+turnover_per_employee = 1500000
+car_amount = 3
+car_price_per = 200000
+tool_amount = 3
+tool_price_per = 40000
+item_cost_percent = 0.40	
+salary = 500000
+hours_worked_per_employee = 1500
+credit_duration = 30
+expected_expenditure = 260000
+business_days_per_year = 360
